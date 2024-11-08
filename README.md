@@ -110,8 +110,8 @@ This bot enables seamless giveaway management on Telegram with Google Sheets int
 
 > **Admin Side Preview**: 
 ![IMG_1727](https://github.com/user-attachments/assets/6ae54cf6-e098-40a2-9d74-9aed6d2a9110)
-<img width="747" alt="Screenshot 2024-11-08 at 4 42 38 PM" src="https://github.com/user-attachments/assets/029d3d55-11a3-4127-9ad8-8a293e23c9cc">
-<img width="747" alt="Screenshot 2024-11-08 at 4 43 25 PM" src="https://github.com/user-attachments/assets/4c6a83e8-b65a-41e7-ae47-87d61694d14c">
+<img height="300" alt="Screenshot 2024-11-08 at 4 42 38 PM" src="https://github.com/user-attachments/assets/029d3d55-11a3-4127-9ad8-8a293e23c9cc">
+<img height="747" alt="Screenshot 2024-11-08 at 4 43 25 PM" src="https://github.com/user-attachments/assets/4c6a83e8-b65a-41e7-ae47-87d61694d14c">
 
 > **User Side Preview**: 
 ![IMG_1730](https://github.com/user-attachments/assets/1de4c62a-4590-45fc-a0dd-4b9713c03b63)
