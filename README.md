@@ -16,7 +16,7 @@ This bot enables seamless giveaway management on Telegram with Google Sheets int
 ## Requirements
 
 - **Python 3.7+**
-- **Telegram Bot Token**: Create a bot on [BotFather](https://core.telegram.org/bots#botfather).
+- **Telegram Bot Token**: Create a bot on [BotFather](https://core.telegram.org/bots#how-do-i-create-a-bot).
 - **Google Cloud Project**: With Google Sheets API enabled.
 - **Required Pip Packages**:
     ```bash
